@@ -1,2 +1,2 @@
 # algorithm
-practice algorithm
+practice algorithm golang
